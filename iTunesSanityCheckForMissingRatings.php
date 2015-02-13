@@ -35,7 +35,7 @@ $xmlFiles=array($argv[1]);
 
 foreach ($loadDirectory as $fileinfo)
 {
-    if (!$fileinfo->isDot())
+    if (!$fileinfo->isDot() && strtolower($fileinfo->getExtension())=='xml')
     {
 	    echo('Found backup file: '.$fileinfo->getPathname()."\n");
 	    $xmlFiles[]=$fileinfo->getPathname();
