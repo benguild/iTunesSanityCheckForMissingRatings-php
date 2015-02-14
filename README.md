@@ -1,4 +1,4 @@
-*Background & instructions are on my blog:* [URL TO BE PUBLISHED SOON]
+*Background & instructions are on my blog: http://benguild.com/2015/02/14/how-to-restore-disappearing-itunes-song-star-ratings*
 
 ---------------
 
