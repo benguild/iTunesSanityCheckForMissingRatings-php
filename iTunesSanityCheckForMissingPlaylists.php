@@ -123,5 +123,6 @@ echo('########################################'."\n");
 echo('########################################'."\n\n");
 
 exit('Finished scanning iTunes Library XML archives.'."\n");
+exit('Finished scanning library archives'."\n");
 
 ?>
