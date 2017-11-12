@@ -6,7 +6,7 @@ This PHP script will find songs in your iTunes Library without star ratings, and
 
 Created by Ben Guild, Copyright © 2015-2017+
 
-**ABSOLUTELY NO WARRANTY. USE THIS SCRIPT AND THE FILES THAT IT GENERATES AT YOUR OWN RISK! BACKUP YOUR DATA!!**
+**ABSOLUTELY NO WARRANTY.** USE THIS SCRIPT AND THE FILES THAT IT GENERATES AT YOUR OWN RISK! BACKUP YOUR DATA!!
 
 ---------------
 
