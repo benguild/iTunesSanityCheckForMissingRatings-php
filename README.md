@@ -4,7 +4,8 @@
 
 This PHP script will find songs in your iTunes Library without star ratings, and will then scour your specified backup files to find the most recent star rating for that file in case it was somehow removed or lost somewhere along the way for some reason. It will generate an AppleScript as output that can be run on your Mac to automatically re-set all of the missing ratings!
 
-Created by Ben Guild, Copyright © 2015. ABSOLUTELY NO WARRANTY. USE THIS SCRIPT AND THE FILES THAT IT GENERATES AT YOUR OWN RISK! BACKUP YOUR DATA!!
+Created by Ben Guild, Copyright © 2015-2017+
+**ABSOLUTELY NO WARRANTY. USE THIS SCRIPT AND THE FILES THAT IT GENERATES AT YOUR OWN RISK! BACKUP YOUR DATA!!**
 
 ---------------
 
