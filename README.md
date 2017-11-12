@@ -8,8 +8,11 @@ Created by Ben Guild, Copyright © 2015. ABSOLUTELY NO WARRANTY. USE THIS SCRIPT
 
 ---------------
 
-Usage:
-**php** iTunesSanityCheckForMissingRatings.php path1 path2
+# Usage:
+
+In Terminal, run this script:
+
+`php iTunesSanityCheckForMissingRatings.php path1 path2`
 - path1 = your current, most recent, active `iTunes Music Library.xml` file that is being used by iTunes.
 - path2 = path to a single folder at root-level (without subfolders) all the XML files (only!) that you watch to check for past ratings.
 
