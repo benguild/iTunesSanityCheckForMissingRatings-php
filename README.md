@@ -14,6 +14,6 @@ In Terminal, run this script:
 
 `php iTunesSanityCheckForMissingRatings.php path1 path2`
 - **`path1`** = your current, most-recent, ***active*** `iTunes Music Library.xml` file that is being used by iTunes.
-- **`path2`** = path to a single folder at root-level (without subfolders) with all of the XML files (only!) that you want to check for past ratings.
+- **`path2`** = path to a single folder at root-level (without subfolders) with all of the XML files (only!) that you want to check for past ratings. There should not be any other files in this folder.
 
-Output is a date-suffixed *AppleScript* that can be run on your Mac to set the missing star ratings in iTunes.
+Output is a date-suffixed *AppleScript* that can be run on your Mac to set the missing star ratings in iTunes. You should probably view this file in the editor before running it to make sure that its contents match your expectations.
